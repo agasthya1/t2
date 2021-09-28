@@ -1,0 +1,19 @@
+{
+  "name": "t2",
+  "version": "1.0.0",
+  "description": "This a test git folder and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agasthya1/t2.git"
+  },
+  "author": "Bhunedri Agasthya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agasthya1/t2/issues"
+  },
+  "homepage": "https://github.com/agasthya1/t2#readme"
+}
