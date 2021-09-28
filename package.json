@@ -1,0 +1,25 @@
+{
+  "name": "t2",
+  "version": "1.0.0",
+  "description": "This is to test git and node",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {"lite-server": "^2.6.1"},
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agasthya1/t2.git"
+  },
+  "author": "Bhunedri Agasthya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agasthya1/t2/issues"
+  },
+  "homepage": "https://github.com/agasthya1/t2#readme"
+}
